@@ -3,7 +3,7 @@ version: '3'
 
 services:
   cron:
-    image: docker-cron
+    image: eeacms\cron
     environment:
       CRONTAB: |-
         * * * * * echo 1 minute cron
