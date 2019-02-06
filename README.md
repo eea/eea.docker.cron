@@ -1,6 +1,6 @@
 # eea.docker.cron
 
-Easy easiest cron container you could imagine.
+The easiest cron container you could imagine.
 
 ### Usage
 List your jobs in an environment variable.
